@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+Hello there! 
+
+I love watching compettitive Call of duty. My favorite team is the New York Subliners!
